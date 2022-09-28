@@ -23,10 +23,10 @@ timezone:
 
 title: Trevor's Blog                          # the main title
 
-tagline: A blog of reports from Trevor Golusinski   # it will display as the sub-title
+tagline: A blog of reports from Trevor Golusinski, student at Marist College.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal website designed to be easily navegable and share information about me.
+  A minimal website designed to be easily navigable and share information about me.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: site/assets/img/favicons/android-chrome-512x512.png
+avatar: /assets/img/favicons/android-chrome-512x512.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
