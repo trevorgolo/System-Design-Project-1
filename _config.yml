@@ -23,7 +23,7 @@ timezone:
 
 title: Trevor's Blog                          # the main title
 
-tagline: A blog of reports from Trevor Golusinski, student at Marist College.   # it will display as the sub-title
+tagline: Hi! My name is Trevor Golusinski, a computer science student at Marist College. I gained a love for coding early in my high school career, after taking a computer science elective that was offered. Ever since then, I have been coding in various languages and learning all I can, and it has become a passion of mine! In this blog you will find rundowns of lessons from my System Design class, as well as my resume.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal website designed to be easily navigable and share information about me.
