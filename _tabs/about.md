@@ -9,7 +9,7 @@ A computer science student enrolled at Marist College with a focus in software d
 
 || Email: **<trevor.golusinski1@marist.edu>** || Phone: **732 615 8938** || 
 
-|| GitHub: **(https://www.github.com/trevorgolo)** || LinkedIn: **(https://linkedin.com/in/trevorgolo)** ||
+|| GitHub: **<https://www.github.com/trevorgolo>** || LinkedIn: **<https://linkedin.com/in/trevorgolo>** ||
 
 ---
 
